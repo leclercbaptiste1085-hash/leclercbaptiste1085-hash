@@ -1,6 +1,6 @@
 <h2>Baptiste Leclerc</h2>
 
-<p><b>Data &amp; pilotage financier</b> — contrôle de gestion · analyse financière · estimation de coûts<br>
+<p><b>Data &amp; pilotage financier</b> — contrôle de gestion · analyse financière · data analyst - estimation de coûts<br>
 <sub>Paris · disponible immédiatement · <a href="https://www.linkedin.com/in/baptiste-leclerc-4b8a34346">LinkedIn</a> · leclercbaptiste1085@gmail.com</sub></p>
 
 ---
