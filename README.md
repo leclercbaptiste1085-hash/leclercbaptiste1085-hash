@@ -51,6 +51,8 @@ Une usine de pièces automobiles a-t-elle tenu ses coûts standards en 2025 ? O�
 
 Le rebut coûte plus que tous les autres écarts réunis. L'électricité moins chère que prévu a sauvé 74 k€, mais aux prix de 2022 la facture aurait dépassé le budget de 880 k€.
 
+[![Tableau de bord Power BI](https://raw.githubusercontent.com/leclercbaptiste1085-hash/usine-cout-de-revient/main/rapport_p1.png)](https://github.com/leclercbaptiste1085-hash/usine-cout-de-revient)
+
 **En préparation** : modèle de financement d'une centrale solaire (TRI, VAN, DSCR, scénarios).
 
 ---
