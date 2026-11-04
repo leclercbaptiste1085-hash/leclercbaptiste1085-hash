@@ -39,7 +39,19 @@ Le manque à gagner vient du vent, pas du marché. Le solaire ne capte que 39,7 
 
 [![Tableau de bord Power BI](https://raw.githubusercontent.com/leclercbaptiste1085-hash/reporting-producteur-energie/main/rapport_p1.png)](https://github.com/leclercbaptiste1085-hash/reporting-producteur-energie)
 
-**En préparation** : modèle de financement d'une centrale solaire (TRI, VAN, DSCR, scénarios) · coût de revient industriel et exposition au prix de l'électricité.
+#### [Usine : coût de revient réel vs standard →](https://github.com/leclercbaptiste1085-hash/usine-cout-de-revient)
+
+SQL · PostgreSQL · Power BI (DAX, PBIP) · prix spot réels de l'électricité 2022-2025
+
+Une usine de pièces automobiles a-t-elle tenu ses coûts standards en 2025 ? Où part l'argent : matière, main-d'œuvre, énergie, rebuts ?
+
+| Écart de coût | Rebuts | Prix de l'électricité | Sous-activité d'août |
+|:-:|:-:|:-:|:-:|
+| **+331 k€ (+6,3 %)** | **+215 k€** | **−74 k€** | **130 k€** |
+
+Le rebut coûte plus que tous les autres écarts réunis. L'électricité moins chère que prévu a sauvé 74 k€, mais aux prix de 2022 la facture aurait dépassé le budget de 880 k€.
+
+**En préparation** : modèle de financement d'une centrale solaire (TRI, VAN, DSCR, scénarios).
 
 ---
 
