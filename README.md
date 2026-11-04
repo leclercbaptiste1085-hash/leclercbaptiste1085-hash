@@ -25,7 +25,7 @@ Chez **EDF**, pendant six mois, comme estimateur de coûts en appui au contrôle
 
 ### Projets
 
-#### [Reporting producteur d'énergies renouvelables →](https://github.com/leclercbaptiste1085-hash/reporting-producteur-energie)
+#### [Reporting producteur d'énergies renouvelables →](https://github.com/leclercbaptiste1085-hash/1-reporting-producteur-energie)
 
 SQL · PostgreSQL · Python · Power BI · données réelles RTE et prix spot, janvier à août 2026
 
@@ -37,9 +37,9 @@ Un producteur éolien et solaire des Hauts-de-France a-t-il tenu son budget ? Et
 
 Le manque à gagner vient du vent, pas du marché. Le solaire ne capte que 39,7 €/MWh, contre environ 73 €/MWh en moyenne sur le marché : c'est l'effet de cannibalisation.
 
-[![Tableau de bord Power BI](https://raw.githubusercontent.com/leclercbaptiste1085-hash/reporting-producteur-energie/main/rapport_p1.png)](https://github.com/leclercbaptiste1085-hash/reporting-producteur-energie)
+[![Tableau de bord Power BI](https://raw.githubusercontent.com/leclercbaptiste1085-hash/1-reporting-producteur-energie/main/rapport_p1.png)](https://github.com/leclercbaptiste1085-hash/1-reporting-producteur-energie)
 
-#### [Usine : coût de revient réel vs standard →](https://github.com/leclercbaptiste1085-hash/usine-cout-de-revient)
+#### [Usine : coût de revient réel vs standard →](https://github.com/leclercbaptiste1085-hash/2-usine-cout-de-revient)
 
 SQL · PostgreSQL · Power BI (DAX, PBIP) · prix spot réels de l'électricité 2022-2025
 
@@ -51,7 +51,7 @@ Une usine de pièces automobiles a-t-elle tenu ses coûts standards en 2025 ? O�
 
 Le rebut coûte plus que tous les autres écarts réunis. L'électricité moins chère que prévu a sauvé 74 k€, mais aux prix de 2022 la facture aurait dépassé le budget de 880 k€.
 
-[![Tableau de bord Power BI](https://raw.githubusercontent.com/leclercbaptiste1085-hash/usine-cout-de-revient/main/rapport_p1.png)](https://github.com/leclercbaptiste1085-hash/usine-cout-de-revient)
+[![Tableau de bord Power BI](https://raw.githubusercontent.com/leclercbaptiste1085-hash/2-usine-cout-de-revient/main/rapport_p1.png)](https://github.com/leclercbaptiste1085-hash/2-usine-cout-de-revient)
 
 **En préparation** : modèle de financement d'une centrale solaire (TRI, VAN, DSCR, scénarios).
 
