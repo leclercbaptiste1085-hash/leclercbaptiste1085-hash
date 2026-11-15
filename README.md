@@ -53,6 +53,34 @@ Le rebut coûte plus que tous les autres écarts réunis. L'électricité moins 
 
 [![Tableau de bord Power BI](https://raw.githubusercontent.com/leclercbaptiste1085-hash/2-usine-cout-de-revient/main/rapport_p1.png)](https://github.com/leclercbaptiste1085-hash/2-usine-cout-de-revient)
 
+#### [La France et la mer : un savoir-faire réel, un espace délaissé →](https://github.com/leclercbaptiste1085-hash/4-france-maritime)
+
+R · données publiques (Eurostat, Cour des comptes) · comptes de cinq industriels cotés
+
+La France possède le deuxième espace maritime du monde. Qu'en fait-elle, et que valent ses industriels de la mer ?
+
+| Aquaculture : Norvège / France | Marge nette de GTT (2025) | Bénéteau, de 2023 à 2025 | Fret porté par le fleuve |
+|:-:|:-:|:-:|:-:|
+| **× 9** | **51,5 %** | **+12,6 % → −5,1 %** | **1,8 %** |
+
+La valeur est dans la connaissance : GTT vend la conception des cuves de méthaniers, la construction est partie en Asie. Le fleuve, lui, souffre d'un réseau resté au gabarit de 1879.
+
+[![Marge nette des industriels de la mer](https://raw.githubusercontent.com/leclercbaptiste1085-hash/4-france-maritime/main/sorties/3_entreprises_marge.png)](https://github.com/leclercbaptiste1085-hash/4-france-maritime)
+
+#### [La France et la terre : produire plus sur le même hectare, et ne plus rien perdre →](https://github.com/leclercbaptiste1085-hash/5-france-terre)
+
+R · Python · Power BI (DAX, paramètres de simulation, PBIP) · FAOSTAT, INSEE, Eurostat, INRAE
+
+Le rendement du blé plafonne depuis 1996 et la France importe la majeure partie de ses engrais azotés. Quels leviers techniques permettraient de produire autant avec moins d'engrais importés ?
+
+| Azote apporté aux sols | prélevé par les cultures | Agroforesterie (gain mesuré) | Plafond des leviers urine et ammoniac |
+|:-:|:-:|:-:|:-:|
+| **4,2 Mt** | **2,7 Mt** | **× 1,34** | **31 % des engrais azotés** |
+
+Le problème n'est pas l'azote, indispensable aux plantes, mais son gaspillage. Un simulateur Power BI chiffre ce que rapporteraient l'urine collectée, les pertes d'ammoniac évitées, les légumineuses et les algues cultivées.
+
+[![Simulateur Power BI](https://raw.githubusercontent.com/leclercbaptiste1085-hash/5-france-terre/master/powerbi/simulateur_maximum.png)](https://github.com/leclercbaptiste1085-hash/5-france-terre)
+
 **En préparation** : modèle de financement d'une centrale solaire (TRI, VAN, DSCR, scénarios).
 
 ---
