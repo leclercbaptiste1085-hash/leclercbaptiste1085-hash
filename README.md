@@ -53,6 +53,20 @@ Le rebut coûte plus que tous les autres écarts réunis. L'électricité moins 
 
 [![Tableau de bord Power BI](https://raw.githubusercontent.com/leclercbaptiste1085-hash/2-usine-cout-de-revient/main/rapport_p1.png)](https://github.com/leclercbaptiste1085-hash/2-usine-cout-de-revient)
 
+#### [La défiance des ménages français envers les valeurs mobilières →](https://github.com/leclercbaptiste1085-hash/3-defiance-valeurs-mobilieres)
+
+R · économétrie (régression, Newey-West, test ADF) · Eurostat, INSEE, AMF
+
+Pourquoi les Français, à revenu comparable, détiennent-ils si peu d'actions, d'obligations et de parts de fonds ?
+
+| Part de l'épargne financière (2025) | Écart à PIB égal | Ménages détenteurs | Parmi les 10 % les plus aisés |
+|:-:|:-:|:-:|:-:|
+| **10,9 %** (9e sur 10 pays) | **−7,9 points** | **24 % → 17 %** (2004-2024) | **52 % sans aucune** |
+
+Les cours des actions ont été multipliés par 2,5 depuis 1998 et ont effacé chaque krach ; le nombre de détenteurs, lui, ne s'est jamais reconstitué. La crise ne fait pas vendre tout le monde, mais elle réduit durablement le nombre d'épargnants en Bourse.
+
+[![Cours des actions et taux de détention](https://raw.githubusercontent.com/leclercbaptiste1085-hash/3-defiance-valeurs-mobilieres/main/sorties/5_cours_vs_detention.png)](https://github.com/leclercbaptiste1085-hash/3-defiance-valeurs-mobilieres)
+
 #### [La France et la mer : un savoir-faire réel, un espace délaissé →](https://github.com/leclercbaptiste1085-hash/4-france-maritime)
 
 R · données publiques (Eurostat, Cour des comptes) · comptes de cinq industriels cotés
