@@ -81,19 +81,19 @@ La valeur est dans la connaissance : GTT vend la conception des cuves de méthan
 
 [![Marge nette des industriels de la mer](https://raw.githubusercontent.com/leclercbaptiste1085-hash/4-france-maritime/main/sorties/3_entreprises_marge.png)](https://github.com/leclercbaptiste1085-hash/4-france-maritime)
 
-#### [La France et la terre : produire plus sur le même hectare, et ne plus rien perdre →](https://github.com/leclercbaptiste1085-hash/5-france-terre)
+#### [La France et la terre : l'agriculture 2.0, mêler au lieu de séparer →](https://github.com/leclercbaptiste1085-hash/5-france-terre)
 
 R · Python · Power BI (DAX, paramètres de simulation, PBIP) · FAOSTAT, INSEE, Eurostat, INRAE
 
-Le rendement du blé plafonne depuis 1996 et la France importe la majeure partie de ses engrais azotés. Quels leviers techniques permettraient de produire autant avec moins d'engrais importés ?
+Le rendement du blé plafonne depuis le milieu des années 1990 et la France importe l'essentiel de ses engrais. Que rapporte l'agroforesterie, qui mêle arbres, cultures et bêtes sur le même hectare, et pourquoi a-t-elle disparu ?
 
-| Azote apporté aux sols | prélevé par les cultures | Agroforesterie (gain mesuré) | Plafond des leviers urine et ammoniac |
+| Agroforesterie (gain mesuré) | Part des grandes cultures | Prés-vergers, 1950 → aujourd'hui | Systèmes comparés |
 |:-:|:-:|:-:|:-:|
-| **4,2 Mt** | **2,7 Mt** | **× 1,34** | **31 % des engrais azotés** |
+| **× 1,34** | **0,1 %** | **500 000 → 100 000 ha** | **19** |
 
-Le problème n'est pas l'azote, indispensable aux plantes, mais son gaspillage. Un simulateur Power BI chiffre ce que rapporteraient l'urine collectée, les pertes d'ammoniac évitées, les légumineuses et les algues cultivées.
+L'arbre n'a pas reculé parce qu'il produisait moins : la PAC payait l'hectare d'une seule culture. Ce qui subsiste en France vit au contact de l'eau (étangs de la Dombes, riz de Camargue, prés-salés, claires à huîtres), et onze systèmes étrangers montrent qu'on peut encore mêler à grande échelle. Un simulateur Power BI chiffre en complément l'azote que l'on pourrait ne plus perdre.
 
-[![Simulateur Power BI](https://raw.githubusercontent.com/leclercbaptiste1085-hash/5-france-terre/master/powerbi/simulateur_maximum.png)](https://github.com/leclercbaptiste1085-hash/5-france-terre)
+[![Gain de l'agroforesterie](https://raw.githubusercontent.com/leclercbaptiste1085-hash/5-france-terre/master/sorties/6_agroforesterie.png)](https://github.com/leclercbaptiste1085-hash/5-france-terre)
 
 **En préparation** : modèle de financement d'une centrale solaire (TRI, VAN, DSCR, scénarios).
 
